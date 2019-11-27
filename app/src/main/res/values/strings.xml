@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment6MS</string>
+
+    <string name="title_location_permission">Location Permission</string>
+    <string name="text_location_permission">App need permission jo</string>
+    <string name="ok">Thanks</string>
+    <string name="location">LOCATION</string>
+</resources>
